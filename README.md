@@ -1,41 +1,21 @@
 # Resources
 
-* Getting Started
-  * http://goo.gl/knc6xJ
-  * http://qr.ae/rMdLI
-  * http://qr.ae/s3hSF
-* Tutorials
-  * http://goo.gl/CoeHMu
-* Topicwise Questions
-  * http://goo.gl/rPye8v
-* Data Structures book(Must have)
-  * http://goo.gl/J0LXgr
-* Interview Preparation
-  * http://interviewbit.com
-  * http://geeksforgeeks.com
-  * https://goo.gl/kNXsDu
-* Interview Questions
-  * https://goo.gl/LlZRNZ
-* Advice
-  * http://qr.ae/3NBuk
-  * http://goo.gl/IT93kw
-  * http://goo.gl/mNC7MA
-  * https://goo.gl/3xpe9Q
-* Sanu Kumar Gupta's blogposts
-  * https://sanugupta.wordpress.com
-* Abdur Rahman's blogposts
-  * http://thealphaking01.blogspot.in
-* Archit Srivastava's blogposts
-  * https://eh2arch.wordpress.com
-* Questions of Contests held by RECursion
-  * https://goo.gl/zGws7v
-* Slides of classes held till now
-  * https://github.com/RECursion-NITD/ClassLectures
-  * http://goo.gl/XPj50I
-* Codeblocks
-  * http://www.codeblocks.org/downloads/26
-* DevCpp
-  * https://sourceforge.net/projects/orwelldevcpp
-* DS and algo visualization websites.
-  * https://www.cs.usfca.edu/~gal…/visualization/Algorithms.html
-  * http://visualgo.net
+* [Getting Started](https://github.com/RECursion-NITD/Resources/wiki/Getting-Started)
+* [Tutorials](https://github.com/RECursion-NITD/Resources/wiki/Learning-Resources)
+* [Topicwise Questions](https://github.com/RECursion-NITD/Resources/wiki/Topicwise-Questions)
+* [Data Structures book (Must have)](http://goo.gl/J0LXgr)
+* [Advice](https://github.com/RECursion-NITD/Resources/wiki/Advice)
+* [Blogs by NITD students](https://github.com/RECursion-NITD/Resources/wiki/Blogs-by-NITD-students)
+* [RECursion Contests](https://github.com/RECursion-NITD/Resources/wiki/RECursion-Contests)
+* [Slides of classes held till now](http://goo.gl/XPj50I)
+* [Class Lectures-Github](https://github.com/RECursion-NITD/ClassLectures)
+* [Codeblocks](http://www.codeblocks.org/downloads/26)
+* [DevCpp](https://sourceforge.net/projects/orwelldevcpp)
+* [DS visualizations-USFCA](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [DS visualizations-VisuAlgo](http://visualgo.net)
+* [Please fill this form to share your interview experience](http://goo.gl/forms/uYycT2tokG0RYVzV2)
+* [The experiences contributed by NIT Durgapur students and alumni](https://github.com/RECursion-NITD/Interview-Questions/wiki)
+* [An awesome list for competitive programming-Codeforces](http://codeforces.com/blog/entry/23054)
+* [Implementation of various algorithms and Stanford notebook](https://github.com/jaehyunp/stanfordacm)
+
+If anyone wants to add any kind of helpful resource feel free to add in [comments](https://www.facebook.com/groups/recursion.nit/permalink/1283130455042351)
