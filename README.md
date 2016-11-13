@@ -28,7 +28,7 @@
 * Archit Srivastava's blogposts
   * https://eh2arch.wordpress.com
 * Questions of Contests held by RECursion
-  * http://goo.gl/NKFNII
+  * https://goo.gl/zGws7v
 * Slides of classes held till now
   * https://github.com/RECursion-NITD/ClassLectures
   * http://goo.gl/XPj50I
